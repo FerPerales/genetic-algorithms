@@ -1,0 +1,10 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    gga4r (0.9.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  gga4r
